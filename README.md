@@ -7,7 +7,7 @@ This Project includes a cool design which I designed for my own company (kdj.lk)
 1. Elegant Design
 2. Multi Language Support
 3. Animations and transitions
-4. Carousel Intergration
+4. Carousel Integration
 5. Env file support
 6. Axios
 7. Customized 404 Page
@@ -18,7 +18,7 @@ This Project includes a cool design which I designed for my own company (kdj.lk)
 
 [![image.png](https://i.postimg.cc/vB21WNwR/image.png)](https://postimg.cc/xJHTQgdg)
 
--Carousel Section
+- Carousel Section
 [![image.png](https://i.postimg.cc/BQK8Kphy/image.png)](https://postimg.cc/9rcF3dHt)
 
 - Brand Image and Descriptions
